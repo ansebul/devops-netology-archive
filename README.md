@@ -9,4 +9,4 @@
    + файлы crash.log 
    + файлы с расширением .tfvars
    + файлы override.tf, override.tf.json и другие, заканчивающиеся на _override.tf и _override.tf.json
-   + конфигурационные файлы .terraformrc и terraform.rc
+   + конфигурационные файлы .terraformrc и terraform.rcNew line
