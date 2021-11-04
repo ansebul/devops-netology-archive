@@ -21,7 +21,9 @@
     Текст комментария: Update CHANGELOG.md
 
   Ответ был получен 2-мя способами:
+
   1)
+
     $ git log aefea -n1
     commit aefead2207ef7e2aa5dc81a34aedf0cad4c32545
     Author: Alisdair McDiarmid <alisdair@users.noreply.github.com>
@@ -31,6 +33,7 @@
 
 
   2)
+    
     $ git show --quiet aefea
     commit aefead2207ef7e2aa5dc81a34aedf0cad4c32545
     Author: Alisdair McDiarmid <alisdair@users.noreply.github.com>
